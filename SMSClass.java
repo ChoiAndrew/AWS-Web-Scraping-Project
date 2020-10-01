@@ -43,7 +43,7 @@ public class SMSClass {
 		/////////////////
 		
 		//Used for authenticating to AWS
-		BasicAWSCredentials awsCreds = new BasicAWSCredentials("AKIAJZQXHRVCSBIXCWKA", "v6u4Vc8H+VWR0of6tMadfHtCpZOCDZbfPLARNYyy");
+		BasicAWSCredentials awsCreds = new BasicAWSCredentials("AKIDFZQXHRVCSBIXTQKA", "v6uV2c8H+VWR0fo6taMdfHtRpZOCDZbfPLYQNYya");
 		
 		//Create SNS Client
 		AmazonSNS snsClient = AmazonSNSClient
